@@ -1,0 +1,27 @@
+.boton {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex: 1 1;
+    width: 50px;
+    height: 50px;
+    margin-right: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Operador {
+    background-color: green;
+    color: white;
+}
+
+.boton:hover {
+    background-color: orange;
+}
+
+.Operador:hover {
+    background-color: white;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}

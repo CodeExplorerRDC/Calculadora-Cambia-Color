@@ -1,0 +1,14 @@
+.BotonClear {
+    background-color: gray;
+    padding: 15px;
+    border-radius: 30px;
+    text-align: end;
+    width: 100%;
+    border: 4px solid gray;
+}
+
+.BotonClear:hover {
+    background-color: black;
+    color: white;
+    border: 4px solid gray;
+}
